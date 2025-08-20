@@ -34,7 +34,7 @@ const CreateAccount = () => {
   }
   return (
     <div className='h-screen w-full flex justify-center '>
-      <div className='w-full max-w-sm bg-[#F7F8F9] text-[#1D2226] h-full px-4 py-6 text-sm flex flex-col justify-between'>
+      <div className='w-full max-w-md bg-[#F7F8F9] text-[#1D2226] h-full px-4 py-6 text-sm flex flex-col justify-between'>
         <div className='w-full'>
           <h1 className='max-w-[60%] text-2xl font-semibold my-2'>Create your PopX account</h1>
           <form action="">

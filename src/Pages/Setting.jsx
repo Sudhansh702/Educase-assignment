@@ -9,7 +9,7 @@ const Setting = () => {
   })
   return (
     <div className='h-screen w-full flex justify-center text-sm'>
-      <div className='w-full max-w-sm bg-[#F7F8F9] text-[#1D2226] h-full'>
+      <div className='w-full max-w-md bg-[#F7F8F9] text-[#1D2226] h-full'>
         <div className='bg-white p-4 shadow-b'>
           <h1>Account Setting</h1>
         </div>
